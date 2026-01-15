@@ -73,3 +73,5 @@ export default defineConfig([
   },
 ])
 ```
+
+[![Contributors](https://contrib.rocks/image?repo=owner/repo)](https://github.com/owner/repo/graphs/contributors)
